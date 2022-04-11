@@ -1,0 +1,4 @@
+﻿  Sem3_4_real.cpp
+C:\Users\Swan\source\repos\Sem3_4_real\Sem3_4_real.cpp(18,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Swan\source\repos\Sem3_4_real\Sem3_4_real.cpp(22,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Sem3_4_real.vcxproj -> C:\Users\Swan\source\repos\Sem3_4_real\Debug\Sem3_4_real.exe

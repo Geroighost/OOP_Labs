@@ -1,0 +1,6 @@
+﻿  Sem3_3.cpp
+  Vector2.cpp
+  Создание кода...
+Vector2.obj : error LNK2005: "class Vector2 __cdecl operator*(class Vector2 const &,int)" (??D@YA?AVVector2@@ABV0@H@Z) уже определен в Sem3_3.obj
+Vector2.obj : error LNK2005: "class Vector2 __cdecl operator+(class Vector2 const &,class Vector2 const &)" (??H@YA?AVVector2@@ABV0@0@Z) уже определен в Sem3_3.obj
+C:\Users\Swan\source\repos\Sem3_3\Debug\Sem3_3.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
