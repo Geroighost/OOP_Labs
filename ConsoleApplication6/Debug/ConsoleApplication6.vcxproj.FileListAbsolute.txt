@@ -1,0 +1,2 @@
+C:\Users\Swan\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.exe
+C:\Users\Swan\source\repos\ConsoleApplication6\Debug\ConsoleApplication6.pdb

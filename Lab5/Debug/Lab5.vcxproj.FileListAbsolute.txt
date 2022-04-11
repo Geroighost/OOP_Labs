@@ -1,0 +1,2 @@
+c:\Users\Swan\source\repos\Lab5\Debug\Lab5.exe
+c:\Users\Swan\source\repos\Lab5\Debug\Lab5.pdb

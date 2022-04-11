@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Menu">
+    <Position X="0.75" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>ABgAAAAAAIAAAAAAAAAAAAAAAAAIAAAAACCAAkCCAAA=</HashCode>
+      <FileName>menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pharmacy">
+    <Position X="9.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>BAABAAAIAIAAAAgIokAAAAABAAAEgAAAAAAAAAIAABA=</HashCode>
+      <FileName>Pharmacy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pills">
+    <Position X="3.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAQAAAABAAAAAQAAABAEAwAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Pharmacy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Devices">
+    <Position X="6.25" Y="1.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAgBAAAIAAAAIAAQAAAAACAAAACAAQACAA=</HashCode>
+      <FileName>Pharmacy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,22 @@
+﻿  menu.cpp
+c:\Users\Swan\source\repos\Course Work\menu.cpp(62,39): warning C4129: .: неизвестная escape-последовательность
+c:\Users\Swan\source\repos\Course Work\menu.cpp(99,39): warning C4129: .: неизвестная escape-последовательность
+c:\Users\Swan\source\repos\Course Work\menu.cpp(214,39): warning C4129: .: неизвестная escape-последовательность
+c:\Users\Swan\source\repos\Course Work\menu.cpp(251,39): warning C4129: .: неизвестная escape-последовательность
+c:\Users\Swan\source\repos\Course Work\menu.cpp(313,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(313,73): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(338,62): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(338,93): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(395,47): warning C4129: .: неизвестная escape-последовательность
+c:\Users\Swan\source\repos\Course Work\menu.cpp(439,47): warning C4129: .: неизвестная escape-последовательность
+c:\Users\Swan\source\repos\Course Work\menu.cpp(523,47): warning C4129: .: неизвестная escape-последовательность
+c:\Users\Swan\source\repos\Course Work\menu.cpp(565,47): warning C4129: .: неизвестная escape-последовательность
+c:\Users\Swan\source\repos\Course Work\menu.cpp(637,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(637,73): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(697,62): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(697,93): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(1008,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(1008,73): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(1024,38): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\Users\Swan\source\repos\Course Work\menu.cpp(1024,73): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Course Work.vcxproj -> C:\Users\Swan\source\repos\Course Work\x64\Debug\Course Work.exe

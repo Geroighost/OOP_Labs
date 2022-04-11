@@ -1,0 +1,2 @@
+C:\Users\Swan\source\repos\Course Work\x64\Debug\Course Work.exe
+C:\Users\Swan\source\repos\Course Work\x64\Debug\Course Work.pdb

@@ -1,0 +1,16 @@
+﻿  Course Work.cpp
+c:\Users\Swan\source\repos\Course Work\Course Work.cpp(32,10): warning C4101: Menu: неиспользованная локальная переменная
+  menu.cpp
+  Pharmacy.cpp
+c:\Users\Swan\source\repos\Course Work\Pharmacy.cpp(17,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+menu.obj : error LNK2005: "void __cdecl add(class Pharmacy * &,int &)" (?add@@YAXAAPAVPharmacy@@AAH@Z) уже определен в Course Work.obj
+menu.obj : error LNK2005: "void __cdecl calculation_discount(class Pharmacy *,int)" (?calculation_discount@@YAXPAVPharmacy@@H@Z) уже определен в Course Work.obj
+menu.obj : error LNK2005: "void __cdecl deleting(class Pharmacy * &,int &)" (?deleting@@YAXAAPAVPharmacy@@AAH@Z) уже определен в Course Work.obj
+menu.obj : error LNK2005: "void __cdecl edit(class Pharmacy * &,int)" (?edit@@YAXAAPAVPharmacy@@H@Z) уже определен в Course Work.obj
+menu.obj : error LNK2005: "void __cdecl output_data_on_monitor(class Pharmacy *,int)" (?output_data_on_monitor@@YAXPAVPharmacy@@H@Z) уже определен в Course Work.obj
+menu.obj : error LNK2005: "void __cdecl read_elements_from_file(class Pharmacy * &,int)" (?read_elements_from_file@@YAXAAPAVPharmacy@@H@Z) уже определен в Course Work.obj
+menu.obj : error LNK2005: "void __cdecl read_number_from_file(int &)" (?read_number_from_file@@YAXAAH@Z) уже определен в Course Work.obj
+menu.obj : error LNK2005: "void __cdecl record_in_file(class Pharmacy * &,int)" (?record_in_file@@YAXAAPAVPharmacy@@H@Z) уже определен в Course Work.obj
+menu.obj : error LNK2005: "void __cdecl search(class Pharmacy *,int)" (?search@@YAXPAVPharmacy@@H@Z) уже определен в Course Work.obj
+C:\Users\Swan\source\repos\Course Work\Debug\Course Work.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

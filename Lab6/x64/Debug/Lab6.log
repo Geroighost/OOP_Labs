@@ -1,0 +1,18 @@
+﻿  Lab6.cpp
+d:\Mystery World Team\Works\University\Программки\Lab6\Lab6.cpp(20,19): warning C4305: инициализация: усечение из "double" в "float"
+d:\Mystery World Team\Works\University\Программки\Lab6\Lab6.cpp(36,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\Mystery World Team\Works\University\Программки\Lab6\Lab6.cpp(36,23): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\Mystery World Team\Works\University\Программки\Lab6\Lab6.cpp(44,41): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+d:\Mystery World Team\Works\University\Программки\Lab6\Lab6.cpp(44,53): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  tinyexpr.c
+d:\Mystery World Team\Works\University\Программки\Lab6\tinyexpr.c(257,79): warning C4244: функция: преобразование "__int64" в "int", возможна потеря данных
+d:\Mystery World Team\Works\University\Программки\Lab6\tinyexpr.c(258,68): warning C4244: функция: преобразование "__int64" в "int", возможна потеря данных
+d:\Mystery World Team\Works\University\Программки\Lab6\tinyexpr.c(468,1): warning C4090: инициализация: разные квалификаторы "const"
+d:\Mystery World Team\Works\University\Программки\Lab6\tinyexpr.c(485,1): warning C4090: инициализация: разные квалификаторы "const"
+d:\Mystery World Team\Works\University\Программки\Lab6\tinyexpr.c(500,1): warning C4090: инициализация: разные квалификаторы "const"
+d:\Mystery World Team\Works\University\Программки\Lab6\tinyexpr.c(609,40): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+Lab6.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__invalid_parameter в функции "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z).
+Lab6.obj : error LNK2019: ссылка на неразрешенный внешний символ __imp__CrtDbgReport в функции "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z).
+msvcprtd.lib(locale0_implib.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp__free_dbg в функции "public: static void __cdecl std::_Fac_node::operator delete(void *)" (??3_Fac_node@std@@SAXPEAX@Z).
+msvcprtd.lib(locale0_implib.obj) : error LNK2019: ссылка на неразрешенный внешний символ __imp__malloc_dbg в функции "public: static void * __cdecl std::_Fac_node::operator new(unsigned __int64)" (??2_Fac_node@std@@SAPEAX_K@Z).
+D:\Mystery World Team\Works\University\Программки\Lab6\x64\Debug\Lab6.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

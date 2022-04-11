@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+      <FILENAME>CourseworkLib.h</FILENAME>
+      <LINE>87</LINE>
+      <COLUMN>53</COLUMN>
+    </SFA>
+    <DEFECTCODE>6385</DEFECTCODE>
+    <DESCRIPTION>Чтение недопустимых данных из "New_Medicines":  доступный для чтения объем равен "(unsigned int)*64+4" байт, однако считать можно только "128" байт.</DESCRIPTION>
+    <FUNCTION>add</FUNCTION>
+    <DECORATED>?add@@YAXAAPAVPharmacy@@AAH@Z</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>71</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>71</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>52</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>76</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>77</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>79</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"New_Medicines" является массивом размером 0 байт</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>83</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>30</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Войти в этот цикл (предполагается "i&lt;number")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>54</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>53</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>50</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>49</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>42</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>94</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>41</COLUMN>
+        <KEYEVENT>
+          <ID>3</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>"i" может быть равно 1</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>30</COLUMN>
+        <KEYEVENT>
+          <ID>4</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Продолжить этот цикл (предполагается "i&lt;number")</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>18</COLUMN>
+        <KEYEVENT>
+          <ID>5</ID>
+          <KIND>объявление</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>"i" является выходными данными из "Pharmacy::Get_Name_of_Medicine" (объявлено в c:\users\swan\source\repos\course work\pharmacy.h:22)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>54</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>53</COLUMN>
+        <KEYEVENT>
+          <ID>6</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Недопустимая операция чтения из "New_Medicines" (за пределами доступного для чтения диапазона)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+      <FILENAME>CourseworkLib.h</FILENAME>
+      <LINE>101</LINE>
+      <COLUMN>50</COLUMN>
+    </SFA>
+    <DEFECTCODE>6385</DEFECTCODE>
+    <DESCRIPTION>Чтение недопустимых данных из "Medicines":  доступный для чтения объем равен "(unsigned int)*64+4" байт, однако считать можно только "192" байт.</DESCRIPTION>
+    <FUNCTION>add</FUNCTION>
+    <DECORATED>?add@@YAXAAPAVPharmacy@@AAH@Z</DECORATED>
+    <FUNCLINE>69</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>71</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>71</LINE>
+        <COLUMN>24</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>72</LINE>
+        <COLUMN>52</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>75</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>76</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>77</LINE>
+        <COLUMN>16</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>ветвь</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>Предполагается, что параметр ("number_in_menu") разрешается в case 1: </MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>79</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>81</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>82</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>83</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>86</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>54</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>87</LINE>
+        <COLUMN>53</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>32</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>88</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>50</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>89</LINE>
+        <COLUMN>49</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>90</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>91</LINE>
+        <COLUMN>42</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>92</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>93</LINE>
+        <COLUMN>45</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>94</LINE>
+        <COLUMN>16</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>95</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>41</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>84</LINE>
+        <COLUMN>30</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>97</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>98</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>99</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>100</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>101</LINE>
+        <COLUMN>51</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>c:\Users\Swan\source\repos\Course Work\</FILEPATH>
+        <FILENAME>CourseworkLib.h</FILENAME>
+        <LINE>101</LINE>
+        <COLUMN>50</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>использование</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>Недопустимая операция чтения из "Medicines" (за пределами доступного для чтения диапазона)</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

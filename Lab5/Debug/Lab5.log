@@ -1,0 +1,11 @@
+﻿  Lab5.cpp
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(22,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(72,37): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(73,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(74,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(78,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(91,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(92,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(105,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\Users\Swan\source\repos\Lab5\Lab5.cpp(107,9): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Lab5.vcxproj -> C:\Users\Swan\source\repos\Lab5\Debug\Lab5.exe

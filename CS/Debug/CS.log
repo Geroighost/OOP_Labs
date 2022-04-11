@@ -1,0 +1,3 @@
+﻿  CS.cpp
+C:\Users\Swan\source\repos\CS\CS.cpp(25,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  CS.vcxproj -> C:\Users\Swan\source\repos\CS\Debug\CS.exe
